@@ -18,8 +18,8 @@ prom/alertmanager:latest
 easytier/easytier:latest
 ghcr.io/nextcloud-releases/all-in-one:latest
 ghcr.io/nextcloud-releases/aio-domaincheck:latest
-containrrr/watchtower
-caddy:2-alpine
 nextcloud/aio-collabora:latest
 ghcr.io/nextcloud-releases/aio-onlyoffice:latest
+containrrr/watchtower
+caddy:2-alpine
 ghcr.io/openclaw/openclaw
