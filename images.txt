@@ -19,7 +19,7 @@ easytier/easytier:latest
 ghcr.io/nextcloud-releases/all-in-one:latest
 ghcr.io/nextcloud-releases/aio-domaincheck:latest
 containrrr/watchtower
-caddy:alpine
+caddy:2-alpine
 nextcloud/aio-collabora:latest
 ghcr.io/nextcloud-releases/aio-onlyoffice:latest
 ghcr.io/openclaw/openclaw
